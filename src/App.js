@@ -6,6 +6,7 @@ import Login from "./Pages/Login/Login";
 import Banner from "./Pages/Home/Banner/Banner";
 import Appointment from "./Pages/Appointment/Appointment";
 import AppointmentBanner from "./Pages/Appointment/AppointmentBanner";
+// import AppointmentBanner from "./Pages/Appointment/AppointmentBanner";
 
 function App() {
   return (
